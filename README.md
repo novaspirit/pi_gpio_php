@@ -15,6 +15,6 @@ sudo service lighttpd force-reload
 
 command line for gpio pin 23
 
->gpio -g mode 23 out
+>gpio -g mode 23 out<
 >gpio -g write 23 0
 >gpio -g write 23 1
